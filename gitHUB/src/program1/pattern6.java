@@ -5,7 +5,7 @@ public class pattern6 {
 		for(int i=1;i<=5;i++){
 			for(int j=1;j<=5;j++){
 				if(i+j>=6){
-					System.out.print(j);
+					System.out.print(i);
 					
 				}
 				else
